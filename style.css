@@ -55,6 +55,8 @@ table {
 }
 
 button {
+    justify-content: center;
+     display: flex;
     background-color: lightgray;
     color: black;
     font-size: 15px;
