@@ -55,7 +55,7 @@ table {
 }
 
 button {
-    vertical-align: top;
+    display:inline-block;
     background-color: lightgray;
     color: black;
     font-size: 20px;
@@ -63,6 +63,4 @@ button {
     padding: 10px;
     width: 100px;
     outline: none;
-    margin-left: auto;
-    margin-right: auto;
 }
