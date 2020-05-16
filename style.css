@@ -55,11 +55,10 @@ table {
 }
 
 button {
-    justify-content: center;
-     display: flex;
+    position: absolute;
     background-color: lightgray;
     color: black;
-    font-size: 15px;
+    font-size: 20px;
     border: 1px solid;
     padding: 10px;
     width: 100px;
