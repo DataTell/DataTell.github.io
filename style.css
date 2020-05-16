@@ -58,4 +58,5 @@ button {
     display:inline-block;
     background-color: lightgray;
     color: black;
+    justify-content: center;
 }
