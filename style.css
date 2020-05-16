@@ -55,8 +55,7 @@ table {
 }
 
 button {
-    display:inline-block;
+    text-align: center;
     background-color: lightgray;
     color: black;
-    justify-content: center;
 }
