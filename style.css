@@ -19,7 +19,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 10px 10px 15px black;
+    box-shadow: 10px 10px 15px rgb(49, 49, 49);
   }
 
 p {
