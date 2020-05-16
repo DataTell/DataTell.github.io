@@ -55,7 +55,7 @@ table {
 }
 
 button {
-    position: absolute;
+    display: inline-block;
     background-color: lightgray;
     color: black;
     font-size: 20px;
